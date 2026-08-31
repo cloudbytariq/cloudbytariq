@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/cloudbytariq">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/cloudbytariq/">
     <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
@@ -41,7 +41,7 @@ I focus on hands-on learning, practical projects, and understanding how technolo
 
 | Area | Focus |
 |---|---|
-| ☁️ **Cloud Engineering** | Cloud infrastructure, compute, storage, IAM & networking |
+| ☁️ **Cloud Engineering** | Cloud infrastructure, compute, storage, IAM, monitoring & networking |
 | ⚙️ **DevOps** | CI/CD, automation, deployment & engineering workflows |
 | 🏗️ **Infrastructure** | Infrastructure design, provisioning & management |
 | 🌐 **Networking** | TCP/IP, DNS, HTTP/HTTPS, routing & cloud networking |
@@ -75,7 +75,6 @@ CI/CD
 Kubernetes
        ↓
 DevOps & Platform Engineering
-
 💻 Technologies I'm Exploring
 ☁️ Cloud
 <p> <img src="https://img.shields.io/badge/AWS-0B1220?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" alt="AWS"> </p>
@@ -87,11 +86,11 @@ DevOps & Platform Engineering
 <p> <img src="https://img.shields.io/badge/Kubernetes-0B1220?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"> </p>
 📌 Projects
 
-I build practical projects to develop real-world Cloud, DevOps, and Infrastructure engineering skills.
+I'm building practical projects to develop real-world Cloud, DevOps, and Infrastructure engineering skills.
 
 ☁️ Cloud Infrastructure
 
-Hands-on cloud infrastructure covering networking, compute, storage, IAM, security, and monitoring.
+Hands-on cloud infrastructure projects covering networking, compute, storage, IAM, security, and monitoring.
 
 🏗️ Infrastructure as Code
 
@@ -107,9 +106,9 @@ Creating automated build, test, and deployment workflows using CI/CD pipelines.
 
 ☸️ Kubernetes
 
-Learning container orchestration and deploying containerized workloads using Kubernetes.
+Exploring container orchestration and deploying containerized workloads using Kubernetes.
 
-🚧 Projects are being built and documented as part of my engineering journey.
+🚧 Projects will be added here as they are completed and documented.
 
 🎯 What I'm Building
 Cloud
@@ -159,30 +158,5 @@ Kubernetes
 Infrastructure Automation
 DevOps Practices
 🤝 Connect With Me
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/cloudbytariq">
-  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-</a>
-
-<a href="https://www.instagram.com/cloudbytariq/">
-  <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <strong>CloudByTariq ☁️</strong>
-</p>
-
-<p align="center">
-  Cloud • DevOps • Infrastructure • Networking
-</p>
-
-<p align="center">
-  <strong>Build. Automate. Scale.</strong>
-</p>
+<p align="center"> <a href="https://github.com/cloudbytariq"> <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"> </a> <a href="https://www.instagram.com/cloudbytariq/"> <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"> </a> </p>
+<p align="center"> <strong>CloudByTariq ☁️</strong> </p> <p align="center"> Cloud • DevOps • Infrastructure • Networking </p> <p align="center"> <strong>Build. Automate. Scale.</strong> </p> ```
