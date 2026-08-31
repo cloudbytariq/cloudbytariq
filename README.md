@@ -159,5 +159,30 @@ Kubernetes
 Infrastructure Automation
 DevOps Practices
 🤝 Connect With Me
-<p align="center"> <a href="https://github.com/cloudbytariq"> <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"> </a> <a href="https://www.instagram.com/cloudbytariq/"> <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"> </a> </p>
-<p align="center"> <strong>CloudByTariq ☁️</strong> </p> <p align="center"> Cloud • DevOps • Infrastructure • Networking </p> <p align="center"> <strong>Build. Automate. Scale.</strong> </p> ```
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/cloudbytariq">
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+</a>
+
+<a href="https://www.instagram.com/cloudbytariq/">
+  <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>CloudByTariq ☁️</strong>
+</p>
+
+<p align="center">
+  Cloud • DevOps • Infrastructure • Networking
+</p>
+
+<p align="center">
+  <strong>Build. Automate. Scale.</strong>
+</p>
